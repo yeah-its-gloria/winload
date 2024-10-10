@@ -1,0 +1,10 @@
+# SPDX-FileCopyrightText: Copyright 2024 Gloria G.
+# SPDX-License-Identifier: BSD-2-Clause
+
+[package]
+name = "winload"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Gloria G." ]
+
+[dependencies]
